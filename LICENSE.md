@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 [Your Name or Organization]
+Copyright (c) 2025 [發燈條、發燈條實驗室（虛構的）]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
